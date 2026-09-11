@@ -1,5 +1,5 @@
-# The Complete Load Testing Guide
-### From Zero to Practitioner — Concepts, JMeter, and Modern Tools
+# Load Testing Guide
+### Concepts, JMeter, and Modern Tools
 
 ---
 
